@@ -1,8 +1,7 @@
 # Dashboard Design
 
 <p align="center">
-  <img src="https://github.com/mustafakaracuha/contacts-list/blob/main/src/assets/images/all.png" alt="Home" width="400" />
-  <img src="https://github.com/mustafakaracuha/contacts-list/blob/main/src/assets/images/favorite.png" alt="Detail" width="390" />
+  <img src="https://github.com/mustafakaracuha/react-dashboard-design/blob/main/src/assets/app.screenshot.png" alt="Home" width="100%" />
 </p>
 
 This project utilizes the following technologies and libraries:
