@@ -16,7 +16,7 @@ This project utilizes the following technologies and libraries:
 
 ```bash
 # 1. Clone the project folder to your local machine.
-git clone https://github.com/mustafakaracuha/contacts-list.git
+git clone https://github.com/mustafakaracuha/react-dashboard-design.git
 
 # 2. Install dependencies using npm or yarn.
 npm install
