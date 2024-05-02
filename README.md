@@ -10,7 +10,6 @@ This project utilizes the following technologies and libraries:
 - TailwindCss: A utility-first CSS framework for rapidly building custom designs.
 - Material-UI: A popular UI framework for React applications.
 - react-icons: A library for adding icons to your React application.
-- avvvatars-react: A library for adding an avatar to your React application.
 
 ## How to Use
 
