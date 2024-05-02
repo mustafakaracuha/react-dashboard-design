@@ -1,5 +1,7 @@
 import React from "react";
 
+import Avatar from "@mui/material/Avatar";
+
 import LinearProgress from "@mui/material/LinearProgress";
 import { IoIosArrowForward } from "react-icons/io";
 
@@ -55,9 +57,7 @@ function index() {
             <p className="mt-8 text-lg font-bold text-gray-600">Meetings</p>
             <div className="w-full flex items-center mt-4 justify-between h-20 bg-white rounded-xl px-5">
                 <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full flex items-center justify-center bg-[#2862FF] overflow-hidden">
-                        <img src="https://images.pexels.com/photos/18398366/pexels-photo-18398366/free-photo-of-bireysel-cekim-kizi.jpeg?auto=compress&cs=tinysrgb&w=800" alt="" />
-                    </div>
+                    <Avatar alt="Remy Sharp" src="https://images.pexels.com/photos/18398366/pexels-photo-18398366/free-photo-of-bireysel-cekim-kizi.jpeg?auto=compress&cs=tinysrgb&w=800" />
                     <div className="flex flex-col">
                         <p className="font-bold text-sm ml-4 text-slate-500">Emmy Anderson</p>
                         <p className="font-normal text-sm ml-4 text-slate-400">08:00 - 10:00</p>
@@ -70,9 +70,7 @@ function index() {
 
             <div className="w-full flex items-center mt-4 justify-between h-20 bg-white rounded-xl px-5">
                 <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full flex items-center justify-center bg-[#2862FF] overflow-hidden">
-                        <img src="https://images.pexels.com/photos/14749665/pexels-photo-14749665.jpeg?auto=compress&cs=tinysrgb&w=800" alt="" />
-                    </div>
+                    <Avatar alt="Remy Sharp" src="https://images.pexels.com/photos/14749665/pexels-photo-14749665.jpeg?auto=compress&cs=tinysrgb&w=800" />
                     <div className="flex flex-col">
                         <p className="font-bold text-sm ml-4 text-slate-500">Mara Dach</p>
                         <p className="font-normal text-sm ml-4 text-slate-400">11:00 - 12:00</p>
@@ -85,9 +83,7 @@ function index() {
 
             <div className="w-full flex items-center mt-4 justify-between h-20 bg-white rounded-xl px-5">
                 <div className="flex items-center">
-                    <div className="w-10 h-10 rounded-full flex items-center justify-center bg-[#2862FF] overflow-hidden">
-                        <img src="https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800" alt="" />
-                    </div>
+                    <Avatar alt="Remy Sharp" src="https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=800" />
                     <div className="flex flex-col">
                         <p className="font-bold text-sm ml-4 text-slate-500">Joy McGlynn</p>
                         <p className="font-normal text-sm ml-4 text-slate-400">14:00 - 15:00</p>
